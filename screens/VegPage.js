@@ -199,7 +199,7 @@ const Veg = ({ navigation }) => {
                             </View>
 
                             <TouchableOpacity style={styles.checkbtn} onPress={message}>
-                                <Text style={styles.checkbtnTxt}>Bills</Text>
+                                <Text style={styles.checkbtnTxt}>Bill</Text>
                             </TouchableOpacity>
                         </View>
                     </Modal>
